@@ -31,9 +31,9 @@
 - 🎓 BSc student (200-level, online)
 - 🧠 Strong foundation in **Machine Learning**
 - 🌱 Currently learning **React**, **Responsive Design**, and **Deep Learning**
-- 🎨 Beginner Graphic Designer (Canva & Photoshop)
+- 🎨 Graphic Designer (Canva & Photoshop)
 - 💡 Interested in **AI, ML + Web Apps, and Automation**
-- 💰 Focused on building skills that can support my family
+- 💰 Focused on building skills that can support my career
 
 ---
 
