@@ -52,7 +52,7 @@ Mobile-first websites built with HTML, CSS, and JavaScript.
 
 ## 📊 GitHub Stats
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danny-ot)](https://github.com/Danny-ot/github-readme-stats)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danny-ot&show_icons=true&theme=radical)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danny-ot&layout=compact&theme=tokyonight&cache_seconds=1800" />
 
